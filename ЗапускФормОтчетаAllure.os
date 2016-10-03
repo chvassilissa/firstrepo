@@ -1,0 +1,2 @@
+ЗапуститьПриложение ("allure generate .", "C:\Работа\Разное\Обучение\GetHub\repo\work2\allure-report");
+ЗапуститьПриложение ("allure report open", "C:\Работа\Разное\Обучение\GetHub\repo\work2\allure-report");
